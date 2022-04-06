@@ -1,0 +1,33 @@
+Name,Priority,Modified MHC,Training NODE,"GC-DFT
+(Catalysis)","GC-DFT
+(Electro
+deposition)","Excess 
+Thermo",Differentiable Physics,Free Energy Functionals,Batteries.jl,Space Batteries,Simulation of Batteries in Parallel,Hardware Accelerators,Conversion: Electronic Structure,Scaling,PINN,Design Space,DFTB,MPC
+Alec,4,,3,,,,,,-1,4,8,,,,,,,8
+Ady,5,,,,,7,,,,6,,,,,,8,,
+Varun,4,,8,,,,8,,,,,,,,-1,4,,2
+Lance,3,6,,-1,9,,,,,,,,,,,8,7,
+Holden,5,8,,7,8,,,,,,,,,,5,,9,
+Victor,5,8,,6,8,5,6,3,,,,,,,,,7,
+Babar,3,-1,,,7,,,,,,,,5,,,,5,
+Rachel,6,8,,8,,6,4,,10,,,,,,5,4,3,2
+Emil,6,,4,,,1,7,5,,,,4,,,7,9,,
+Lydia,2,8,,9,-1,,,,,,,,,,,,8,
+Vedant,1,,1,,,,,,,,,,,,1,,,
+Archie,2,1,10,,,1,10,,1,,,,,,5,10,,
+Keith,3,4,,5,6,3,3,3,,3,,5,4,,,5,,
+Valentin,6,,,,,,,,9,6,8,,,,,,,7
+Lei,6,,,10,-1,7,7,7,,,,,,,,,,
+Alex,2,,8,,,,,,8,6,8,-1,,8,6,4,,
+Shang,3,,,,,-1,,,,,,,,,10,,,
+Celia,1,,,,,-1,7,8,,6,,,,,,,,
+Kian,2,,,,10,5,-1,,,,,,9,,,,6,
+Ziqi,1,,,,,,,,,,,9,,,,7,,
+Pinwen,6,,,8,10,10,9,9,,,,,,,,,,
+Yara,1,,,,,,,,7,,,,,,,,,-1
+Sakshi,1,,,-1,9,,4,,,,,,,,,,,
+Venkat,6,9,,,,-1,9,9,,,,,,,,8,,
+Hongyi,1,,,,,5,,,,5,,,,,,,,
+Matt,5,,,,,,,,10,10,8,,,10,,,,
+Shashank,5,,,,,,,,,9,,,,,,,,9
+Venkatesh,4,,,,,,,,,9,,,9,,,,,
