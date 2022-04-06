@@ -6,7 +6,7 @@ using Gurobi
 
 
 
-df = CSV.read("groupmembership.csv",DataFrame)
+df = CSV.read("groupmembership2.csv",DataFrame)
 
 topics = DataFrames.names(df)
 m = length(topics)
