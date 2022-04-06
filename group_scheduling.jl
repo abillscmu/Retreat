@@ -32,9 +32,9 @@ for i in 1:n
 end
 
 
-@objective(model,Min,sum(x*g_1)^2+sum(x*g_2)^2+sum(x*g_3)^2)
+@objective(model,Min,sum((x*g_1).^2)+sum((x*g_2).^2)+sum((x*g_3).^2))
 @constraint(model,[j in 1:m-2],g_1[j]+g_2[j]+g_3[j]==1)
-#@constraint(model,[i in 1:n],x[i,:]'*g_1>=1)
+@constraint(model,[i in 1:n],x[i,:]'*g_1>=1)
 #@constraint(model,[i in 1:n],x[i,:]'*g_2>=1)
 optimize!(model)
 
